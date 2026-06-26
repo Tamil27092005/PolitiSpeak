@@ -1,0 +1,54 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Environment / secrets
+.env
+*.env
+backend/.env
+politispeak/.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Model checkpoints & large binaries (hosted on Hugging Face instead)
+backend/knnvc/
+backend/hub/
+*.pt
+*.pth
+
+# Vite cache
+.vite/
+.vite-temp/
+
+# Test/output artifacts
+*.wav
+*.mp3
+test_output_*
+test_hf_*
+
+# Misc scratch
+khgjyvjlhv/
