@@ -10,7 +10,7 @@ PolitiSpeak takes a political post from X (Twitter), summarizes it if needed, an
 
 Political opinions, statements, and reactions move fast on X — but they're consumed as silent text in a feed, scrolled past in seconds. A tweet *about* a politician's stance doesn't carry their voice, tone, or presence. There's a gap between "reading what was said" and "hearing it said."
 
-PolitiSpeak closes that gap: paste a tweet, pick the politician it's about (or quoting, or replying to), and hear that text spoken back in a voice modeled on real public speech from that figure.
+PolitiSpeak closes that gap: paste a tweet or upload the image of release, pick the politician it's about (or quoting, or replying to), and hear that text spoken back in a voice modeled on real public speech from that figure.
 
 ---
 
